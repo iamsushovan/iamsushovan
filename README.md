@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamsushovan
+- 👋 Hi, I’m Sushovan Karmakar
 - 👀 I’m interested in Java Developments
 - 🌱 I’m currently learning Spark
 - 💞️ I’m looking to collaborate on ...
